@@ -40,9 +40,9 @@ Every project here is part analysis, part storytelling, and part “wait… that
 
 data-analytics-portfolio/
 │
-├── netflix-analysis/   🎬 (yes, we start with Netflix)
+├── netflix-analysis
 ├── more-projects-coming-soon/
-└── This README.md
+└── README.md
 
 Every project usually includes:
 - Jupyter Notebooks
