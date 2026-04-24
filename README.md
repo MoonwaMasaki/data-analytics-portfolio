@@ -39,8 +39,8 @@ Every project here is part analysis, part storytelling, and part “wait… that
 ### 📁 What’s inside this repository 
 
 data-analytics-portfolio/
-│
-├── netflix-analysis
+|
+|-- netflix-analysis
 ├── more-projects-coming-soon/
 └── README.md
 
